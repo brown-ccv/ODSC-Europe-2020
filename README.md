@@ -1,8 +1,8 @@
 # Missing data in supervised ML
 
-ODSC East 2020
+ODSC Europe 2020
 
-See [this blogpost](https://opendatascience.com/missing-data-in-supervised-machine-learning/) for more details on the presentation.
+Datasets are almost never complete and this can introduce various biases to your analysis. Due to these biases, your supervised machine learning model can produce incorrect predictions. The goal of this post is to give you an idea of why some of the most common approaches for dealing with missing values often introduce some type of bias. At ODSC Europe 2020, I will describe the methods and techniques that can help you to arrive at an unbiased conclusion in the face of missing data.
 
 ## Prerequistes
 
